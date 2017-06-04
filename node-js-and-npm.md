@@ -27,3 +27,19 @@ NPM 3.7 or later, as that fixes a bug with the progress bar that drastically slo
 - **Control of Your Global Node Packages on Windows**  
   http://www.bossable.com/1710/nodejs-package-path-for-windows/  
   Tips for dealing with various path problems
+
+- **Pragmatic Modularity with Node**  
+  http://mafintosh.com/pragmatic-modularity.html  
+  Includes a description of Node's resolution algorithm for `require`
+  
+- **Node Hero: The Complete Node.js Tutorial**  
+  https://risingstack.com/resources/node-hero  
+  An ebook covering a variety of topics about using Node, including basic usage, NPM, Express, and building server applications.  The ebook is free, but requires email registration to download.
+  
+- **Understanding NPM**  
+  https://unpm.nodesource.com/  
+  An interactive visualization that is intended to help you understand the role and scope of NPM.
+  
+- **NPM for Beginners: A Guide for Front-End Developers**  
+  https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/  
+  An excellent introduction to what NPM is, and how to use it for installing and managing package dependencies.

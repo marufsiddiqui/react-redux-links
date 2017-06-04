@@ -66,3 +66,83 @@
   https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84  
   A web series by a quirky programmer showing you high level functional concepts in Javascript
   
+- **Functional Programming Jargon**  
+  https://github.com/hemanth/functional-programming-jargon  
+  A list of FP terms with easier-to-understand definitions and explanations.
+  
+- **An Introduction to Reasonably Pure Functional Programming**  
+  https://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/  
+  Explain four key concepts of functional programming: pure functions, immutable values, composition, and side effects
+  
+- **Functors, Applicatives, and Monads in Plain English**  
+  http://www.russbishop.net/monoids-monads-and-functors  
+  An attempt to explain these concepts in reasonable terms.
+
+- **Learning Functional Programming with Javascript**  
+  https://youtu.be/e-5obm1G_FY  
+  A great talk by Anjana Vakil.  Covers several basic concepts of functional programming, including some very nice examples of map/filter/reducer, a clear fdefinition of side effects, and an explanation of how specialized immutable data libraries work.
+
+- **Thinking in Ramda**  
+  http://randycoulman.com/blog/categories/thinking-in-ramda/  
+  A series of articles digging into techniques to use with the Ramda FP utility library
+  
+- **Functional Programming Isn't the Answer**  
+  http://degoes.net/articles/fp-is-not-the-answer  
+  A reminder that while FP has potential benefits, it's ultimately just a tool, and the end goal is useful software.
+  
+- **An Intro to Functional Programming Concepts in Javascript**  
+  https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c  
+  https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed  
+  https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6  
+  A multi-part series covering a number of FP concepts, how to use them in Javascript, and use of the Ramda FP utility library
+  
+- **JavaScript and Functional Programming**  
+  https://bethallchurch.github.io/JavaScript-and-Functional-Programming/  
+  An overview of the basic principles of functional programming, and how they can be applied in Javascript.  Also includes links to a variety of other articles and resources.
+  
+- **Functional-Light JS**  
+  https://github.com/getify/Functional-Light-JS  
+  This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that we approach these principles without drowning in all the heavy terminology. We look at a subset of FP foundational concepts that I call "Functional-Light Programming" (FLP) and apply it to JavaScript.
+ 
+- **The Case for Lenses in Pragmatic Business Applications**  
+  http://www.brandonkeown.com/2016/10/lenses-for-fun-and-profit.html  
+   Demonstrates the use of Ramda's "lens" concept for encapsulating data access
+   
+- **Functional Lenses, How Do They Work**  
+  https://medium.com/@dtipson/functional-lenses-d1aba9e52254  
+  A dive into the "lens" concept, and how they can be used to manipulate data structures
+   
+- **Don't Be Scared of Functional Programming**  
+  https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/  
+  Several examples of functional programming principles, both in plain JS and with Underscore.js
+
+
+- **Functional Programming Basics in ES6**  
+  https://www.youtube.com/watch?v=HvMemAgOw6I  
+  Talk on functional programming with JavaScript and ES6 syntax. Covers basics such as purity, referential transparency, closures, immutability, currying, composition, and recursion.
+
+  
+- **Using Composition and Array Functions**  
+  http://ignaciochavez.com/using-composition-and-array-functions/  
+  Some useful examples of composing together different functions to accomplish a task.  Has some very nice diagrams illustrating the process.
+  
+- **Dipping a toe into functional JS with lodash/fp**  
+  https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/  
+  Examples of using Lodash's functional API for logic and React component composition
+  
+- **Composability: From Callbacks to Categories in ES6**  
+  https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e  
+  Explores different solutions to "callback hell", based on various FP concepts
+
+
+- **So You Want To Be a Functional Programmer**  
+  https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403  
+  A multi-part series on functional programming concepts and learning approaches (links to previous parts in the article).
+  
+- **Imperative vs Declarative Programming**  
+  https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea  
+  Metaphors, examples, and explanations for the terms "declarative" and "imperative", and how those relate to Functional Programming
+  
+- **Higher-order functions in Lodash**  
+  http://pragmatists.pl/blog/2017/05/higher-order-functions-in-lodash/  
+  An explanation of several FP concepts like partial application and currying, and how Lodash offers utility functions to help make use of those concepts.
